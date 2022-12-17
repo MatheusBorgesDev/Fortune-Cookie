@@ -1,6 +1,7 @@
 const screen1 = document.querySelector(".screen1")
 const screen2 = document.querySelector(".screen2")
 const clickOnCookie = document.querySelector("#closedCookie")
+const btnTry = document.querySelector('#btnTry')
 
 
 const phrases = [
@@ -50,6 +51,12 @@ function generatePhrase(){
     randomPhrase.innerText = phrases[generateRandomPhrase]
 
 }
+
+function buttonTry(event){
+    event.preventDefault()
+    toggleScreen()
+}
+
 
 function toggleScreen(){
     screen1.classList.toggle("hide")
