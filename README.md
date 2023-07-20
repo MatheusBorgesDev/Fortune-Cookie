@@ -6,7 +6,7 @@
 
 ![preview](./.github/preview.png)
 
-🔗 [Clique aqui para acessar]([https://mbslash.github.io/Desafio-1---Stage-5---Biscoito-da-Sorte/](https://matheusborgesdev.github.io/Biscoito-da-Sorte/))
+🔗 [Clique aqui para acessar](https://matheusborgesdev.github.io/Biscoito-da-Sorte/)
 
 ## 💻 Tecnologias
 
