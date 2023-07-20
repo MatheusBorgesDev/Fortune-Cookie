@@ -1,22 +1,24 @@
-# Desafio avançado | Stage 2
+# Fortune Cookie
 
-> Projeto construído durante as aulas da trilha Explorer da Rocketseat.
+## An application to generate random phrases for the user when he clicks on fortune cookie.
 
-    As aulas tiveram o objetivo de utilizar DOM no JavaScript para construir uma aplicação que apresenta frases aleatórias. Introduzindo conhecimentos sobre node, eventos e funções callback.
+> Project built during classes on the Explorer trail at Rocketseat educational institution.
+    
+    The classes aimed to use DOM in JavaScript, introducing knowledge about node, events and callback functions.
 
 ![preview](./.github/preview.png)
 
-🔗 [Clique aqui para acessar](https://matheusborgesdev.github.io/Biscoito-da-Sorte/)
+🔗 [Click here to access](https://matheusborgesdev.github.io/Biscoito-da-Sorte/)
 
-## 💻 Tecnologias
+## 💻 Technologies
 
 - HTML
 - CSS
 - JavaScript
 - DOM
-- Git e Github
+- Git & Github
 - Figma
 
-## 📧 Contato
+## 📧 Contact
 
 matheusb.dev@gmail.com
