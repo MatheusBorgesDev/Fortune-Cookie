@@ -8,7 +8,7 @@
 
 ![preview](./.github/preview.png)
 
-🔗 [Click here to access](https://matheusborgesdev.github.io/Biscoito-da-Sorte/)
+🔗 [Click here to access](https://matheusborgesdev.github.io/Fortune-Cookie/)
 
 ## 💻 Technologies
 
